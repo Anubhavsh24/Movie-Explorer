@@ -4,7 +4,7 @@ A movie search web application built using **HTML, CSS, and JavaScript**, powere
 
 ## 🌐 Live Demo
 
-[**Explore Movies →**](https://Anubhavsh24.github.io/movie-explorer/)
+[**Explore Movies →**](https://anubhavsh24.github.io/Movie-Explorer/)
 
 ## 📌 About the Project
 
